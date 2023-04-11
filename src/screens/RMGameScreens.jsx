@@ -73,7 +73,7 @@ export default function RMGamerScreens() {
 
       <View>
         {resposta !== null && (
-          <Text>{resposta ? "Sim" : "Não"}</Text>
+          <Text>{resposta ? "Vivaço" : "Morreu"}</Text>
         )}
       </View>
 
